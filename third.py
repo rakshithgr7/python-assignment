@@ -1,0 +1,6 @@
+duplicate= [12,24,35,24,88,120,155,88,120,155]
+nodups=list(set(duplicate))
+print(nodups)
+print(sorted(nodups))
+
+
